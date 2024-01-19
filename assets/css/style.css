@@ -126,9 +126,17 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-/*main content*/
+
+    /*main content*/
     main {
         margin-top: 91px;
     }
 
+}
+
+/*Media query: laptops and larger 992px and up */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 2px solid white;
+    }
 }
