@@ -54,6 +54,20 @@ h1 {
     margin-bottom: 0.1em;
 }
 
+/* Navbar styles with dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: #a9d2cc;
+
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px rgb(4, 35, 4);
+    width: 100%;
+    display: none;
+}
+
+
+
 /* Main content */
 main {
     background-color: yellow;
