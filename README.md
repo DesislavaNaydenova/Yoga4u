@@ -1,39 +1,89 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Yoga4u
 
-Welcome,
+Yoga4u is a website that provides information about yoga courses for beginners. it gives the user information about the benefits of doing yoga and offers a small selection of courses. You can register for the courses online. Individual courses are also offered. The site has four sections: Home, Gallery, Courses and Sign Up.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+In this section, we will go over the different parts of the project and describe each briefly, focusing on the value they provide to users.
+! [Design for Phone 1](../assets/images/handy-home.png)
+! [Design for Phone 2](../assets/images/handy-rest.png)
+! [Design for Tablet](../assets/images/ipad.png)
+! [Design for browser](../assets/images/browser.png)
 
-## Codeanywhere Reminders
+### Navigation Bar
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, Gallery, and Sign Up page. It is identical on each page to allow for easy navigation across all devices.
 
-`python3 -m http.server`
+### Landing Page Image
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The landing page includes a photograph with text overlay to showcase the applicable location. This section introduces the user to Love Running with an eye-catching animation.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Club Ethos Section
 
-`http_server`
+This section highlights the benefits of joining Love Running meetups and the overall benefits of running. It aims to encourage users to consider running as their form of exercise.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Meetup Times Section
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Allows users to see when the meetups will happen, their locations, and the run distances. This section is updated to keep users informed of any changes.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Footer
 
-To log into the Heroku toolbelt CLI:
+The footer includes links to Love Running's relevant social media sites, encouraging users to stay connected.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Gallery
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Provides supporting images of meetups, helping users identify the types of events the organization puts together.
 
----
+### Sign Up Page
 
-Happy coding!
+Allows users to sign up for Love Running, specifying their preference for road, trail, or both types of running. Users are asked to submit their full name and email address.
+
+## Features Left to Implement
+
+- Another feature idea
+
+## Testing
+
+This section covers testing conducted to ensure the site works well. It includes testing on different browsers and screen sizes.
+
+### Validator Testing
+
+#### HTML
+
+No errors were returned when passing through the official W3C validator.
+
+#### CSS
+
+No errors were found when passing through the official (Jigsaw) validator.
+
+### Unfixed Bugs
+
+No unfixed bugs were found.
+
+## Deployment
+
+The site was deployed to GitHub Pages using the following steps:
+
+1. In the GitHub repository, navigate to the Settings tab.
+2. From the source section drop-down menu, select the Master Branch.
+3. Once the master branch is selected, the page will automatically refresh, indicating successful deployment.
+
+The live link can be found here: [Love Running 2.0](https://code-institute-org.github.io/love-running-2.0/index.html)
+
+## Credits
+
+### Content
+
+- The text for the Home page was taken from Wikipedia Article A.
+- Instructions on how to implement form validation on the Sign Up page were taken from a specific YouTube Tutorial.
+
+### Media
+
+- The photos used on the home and sign-up pages are from an open-source site.
+- The images used for the gallery page were taken from another open-source site.
+
+## Other General Project Advice
+
+- Pay attention to commit messages and follow good coding practices.
+- Name files meaningfully for clear file paths.
+- Research good and bad coding practices, consider reviewing the suggested articles in the list.
