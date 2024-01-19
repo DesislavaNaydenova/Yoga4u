@@ -5,10 +5,10 @@ Yoga4u is a website that provides information about yoga courses for beginners. 
 ## Features
 
 In this section, we will go over the different parts of the project and describe each briefly, focusing on the value they provide to users.
-! [Design for Phone 1](../assets/images/handy-home.png)
-! [Design for Phone 2](../assets/images/handy-rest.png)
-! [Design for Tablet](../assets/images/ipad.png)
-! [Design for browser](../assets/images/browser.png)
+! [Design for Phone 1](assets/images/handy-home.png)
+! [Design for Phone 2](assets/images/handy-rest.png)
+! [Design for Tablet](assets/images/ipad.png)
+! [Design for browser](assets/images/browser.png)
 
 ### Navigation Bar
 
