@@ -29,7 +29,30 @@ header {
     box-shadow: 0 2px 2px rgb(4, 35, 4);
 }
 
-h1 {}
+header a {
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px 2px rgb(4, 35, 4);
+}
+
+h1 {
+    text-transform: none;
+    letter-spacing: 2px;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+.active {
+    border-bottom: 2px solid white;
+}
+
+#menu>li {
+    margin-bottom: 0.1em;
+}
 
 /* Main content */
 main {
