@@ -89,6 +89,7 @@ main {
     background-color: yellow;
     /*Make main element teake any free space to push footer down*/
     flex: 1 0 auto;
+    margin-top: 53px;
 }
 
 /* Footer */
