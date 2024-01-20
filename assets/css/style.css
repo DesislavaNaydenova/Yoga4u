@@ -139,6 +139,9 @@ main {
     margin: 20px auto;
 }
 
+#why-do-list {
+    list-style: none;
+}
 
 /* Footer */
 
