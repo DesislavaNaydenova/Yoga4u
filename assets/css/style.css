@@ -35,7 +35,7 @@ header {
 header a {
     text-decoration: none;
     color: white;
-    text-shadow: 2px 2px 2px rgb(4, 35, 4);
+    text-shadow: 1px 1px 1px rgb(4, 35, 4);
 }
 
 h1 {
@@ -81,6 +81,8 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(4, 35, 4);
 }
 
 
@@ -93,8 +95,25 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: green;
+
+
+#social-networks {
+    text-align: center;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+    background-color: #a9d2cc;
+    box-shadow: 0 -2px 2px rgb(4, 35, 4);
+
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(4, 35, 4);
 }
 
 /*Media query: tablets and larger 768px and up */
@@ -107,6 +126,7 @@ footer {
         position: relative;
         width: fit-content;
         padding-right: 1rem;
+
     }
 
     #menu {
