@@ -19,6 +19,13 @@ body {
 
 }
 
+h1,
+h2,
+h3 {
+    text-transform: none;
+    letter-spacing: 2px;
+}
+
 /* Header*/
 header {
     background-color: #a9d2cc;
@@ -38,10 +45,7 @@ header a {
     text-shadow: 1px 1px 1px rgb(4, 35, 4);
 }
 
-h1 {
-    text-transform: none;
-    letter-spacing: 2px;
-}
+
 
 #menu {
     font-size: 110%;
@@ -99,6 +103,22 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/pexels-pixabay-355863.jpg") no-repeat center center/cover;
+    position: relative;
+
+}
+
+#cover-text {
+    background-color: rgba(236, 116, 69, .7);
+    font-size: 160%;
+    position: absolute;
+    width: 60%;
+    text-align: center;
+    min-height: 200px;
+    top: 30%;
+    padding: 1rem;
+    min-width: 200px;
+    left: 20%;
+    right: 20%;
 
 }
 
