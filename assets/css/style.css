@@ -110,17 +110,30 @@ main {
 #cover-text {
     background-color: rgba(236, 116, 69, .7);
     font-size: 160%;
-    position: absolute;
+
     width: 60%;
     text-align: center;
-    min-height: 200px;
-    top: 30%;
+
+
     padding: 1rem;
     min-width: 200px;
-    left: 20%;
-    right: 20%;
+
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
 
 }
+
+#cover-text>h2,
+#cover-text>h3 {
+    color: white;
+    text-shadow: 1px 1px 1px rgb(4, 35, 4);
+
+}
+
 
 /* Footer */
 
