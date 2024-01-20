@@ -88,10 +88,18 @@ nav {
 
 /* Main content */
 main {
-    background-color: yellow;
+
     /*Make main element teake any free space to push footer down*/
     flex: 1 0 auto;
     margin-top: 53px;
+}
+
+/*Hero section*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-pixabay-355863.jpg") no-repeat center center/cover;
+
 }
 
 /* Footer */
