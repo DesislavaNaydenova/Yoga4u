@@ -100,7 +100,7 @@ main {
 
 /*Hero section*/
 #hero {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url("../images/pexels-pixabay-355863.jpg") no-repeat center center/cover;
     position: relative;
@@ -132,6 +132,11 @@ main {
     color: white;
     text-shadow: 1px 1px 1px rgb(4, 35, 4);
 
+}
+
+.intro {
+    width: 80%;
+    margin: 20px auto;
 }
 
 
