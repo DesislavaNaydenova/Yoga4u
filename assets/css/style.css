@@ -172,11 +172,17 @@ h3 a:hover {
 #photos img {
     width: 100%;
     line-height: 1em;
+    border: 2px solid #a9d2cc;
+    border-radius: 10px;
+
 }
 
 #photos {
     line-height: 0;
+
 }
+
+
 
 /* Footer */
 
@@ -198,6 +204,14 @@ h3 a:hover {
     padding: 5%;
     color: white;
     text-shadow: 1px 1px 1px rgb(4, 35, 4);
+}
+
+/*Media query: large or langscape phones 576px and up */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0px;
+    }
 }
 
 /*Media query: tablets and larger 768px and up */
@@ -236,6 +250,12 @@ h3 a:hover {
         margin-top: 91px;
     }
 
+    /* Gallery */
+    #photos {
+        column-count: 3;
+        column-gap: 0;
+    }
+
 }
 
 /*Media query: laptops and larger 992px and up */
@@ -247,4 +267,6 @@ h3 a:hover {
     .intro {
         max-width: 45%;
     }
+
+
 }
