@@ -168,6 +168,11 @@ h3 a:hover {
     color: #b82677;
 }
 
+/* Gallery */
+#photos {
+    width: 100%;
+}
+
 /* Footer */
 
 
@@ -232,5 +237,9 @@ h3 a:hover {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 2px solid white;
+    }
+
+    .intro {
+        max-width: 45%;
     }
 }
