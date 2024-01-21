@@ -100,7 +100,7 @@ main {
 
 /*Hero section*/
 #hero {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background: url("../images/pexels-pixabay-355863.jpg") no-repeat center center/cover;
     position: relative;
@@ -110,15 +110,11 @@ main {
 #cover-text {
     background-color: rgba(236, 116, 69, .7);
     font-size: 160%;
-
     width: 60%;
     text-align: center;
-
-
     padding: 1rem;
     min-width: 200px;
-
-
+    max-width: 400px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -139,8 +135,37 @@ main {
     margin: 20px auto;
 }
 
+.intro h2 {
+    text-align: center;
+}
+
+.intro h3 {
+    text-align: center;
+}
+
+.intro div {
+    padding: 20px;
+}
+
 #why-do-list {
     list-style: none;
+    text-align: center;
+}
+
+#contact {
+    bottom: 48.5px;
+    text-align: center;
+}
+
+h3 a {
+    color: inherit;
+    text-decoration: none;
+    font-family: inherit;
+}
+
+
+h3 a:hover {
+    color: #b82677;
 }
 
 /* Footer */
