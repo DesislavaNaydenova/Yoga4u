@@ -12,17 +12,17 @@ In this section, we will go over the different parts of the project and describe
 
 ### Navigation Bar
 
-Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, Gallery, and Sign Up page. It is identical on each page to allow for easy navigation across all devices.
+Featured on all four pages, the fully responsive navigation bar includes links to the Logo, Home page, Gallery, and Sign Up page. It is identical on each page to allow for easy navigation across all devices.
 
 ### Landing Page Image
 
-The landing page includes a photograph with text overlay to showcase the applicable location. This section introduces the user to Love Running with an eye-catching animation.
+The landing page includes a photograph with text overlay to showcase the Name of the company. This section introduces the user to Yoga4u.
 
-### Club Ethos Section
+### Intro Section
 
 This section highlights the benefits of joining Love Running meetups and the overall benefits of running. It aims to encourage users to consider running as their form of exercise.
 
-### Meetup Times Section
+### Contact us Section
 
 Allows users to see when the meetups will happen, their locations, and the run distances. This section is updated to keep users informed of any changes.
 
@@ -32,11 +32,11 @@ The footer includes links to Love Running's relevant social media sites, encoura
 
 ### Gallery
 
-Provides supporting images of meetups, helping users identify the types of events the organization puts together.
+Provides supporting images of yoga courses, helping users identify the types of activitys the organization puts together.
 
 ### Sign Up Page
 
-Allows users to sign up for Love Running, specifying their preference for road, trail, or both types of running. Users are asked to submit their full name and email address.
+Allows users to sign up for Yoga course, specifying their preference for daytime and date. Users are asked to submit their full name and email address.
 
 ## Features Left to Implement
 
@@ -68,19 +68,19 @@ The site was deployed to GitHub Pages using the following steps:
 2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch is selected, the page will automatically refresh, indicating successful deployment.
 
-The live link can be found here: [Love Running 2.0](https://code-institute-org.github.io/love-running-2.0/index.html)
+The live link can be found here: [Yoga4u](https://desislavanaydenova.github.io/Yoga4u/index.html)
 
 ## Credits
 
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A.
+- The text for the Home page was taken from (<https://spearehospital.com/10-reasons-men-should-do-yoga/>) (<https://www.goodhousekeeping.com/health/fitness/a42396941/yoga-for-beginners/#best-yoga-poses-for-beginners>)
 - Instructions on how to implement form validation on the Sign Up page were taken from a specific YouTube Tutorial.
 
 ### Media
 
-- The photos used on the home and sign-up pages are from an open-source site.
-- The images used for the gallery page were taken from another open-source site.
+- The photos used on the home and sign-up pages are from [www.Ppexes.com](<https://www.pexels.com/>).
+- The images used for the gallery page were taken from [www.Ppexes.com](https://www.pexels.com/)).
 
 ## Other General Project Advice
 
