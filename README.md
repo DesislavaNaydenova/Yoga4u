@@ -41,18 +41,19 @@ Provides supporting images of yoga courses, helping users identify the types of 
 ### Courses
 
 Provides information about courses times, helping users choose the passing time to do theit training.
+! [Courses](assets/images/courses.png)
 
 ### Sign Up Page
 
 Allows users to sign up for Yoga course, specifying their preference for daytime and date. Users are asked to submit their full name and email address.
-
-## Features Left to Implement
-
-- Another feature idea
+! [Sign Up](assets/images/Signup.png)
 
 ## Testing
 
-This section covers testing conducted to ensure the site works well. It includes testing on different browsers and screen sizes.
+- I tested that the website works on different browsers.
+- I confirmed that the project is reponsive and looks good on all screen sizes.
+- The sign up form is working correctly and can not be submited with missing information.
+- All the links are working corectly.
 
 ### Validator Testing
 
@@ -63,6 +64,8 @@ No errors were returned when passing through the official W3C validator.
 #### CSS
 
 No errors were found when passing through the official (Jigsaw) validator.
+### Lighthouse
+The choosen colours and fontare easy to read and accessible by running it through Lighthouse in Devtools [Lighthouse report](assets/images/Screenshot_lighthouse.png)
 
 ### Unfixed Bugs
 
@@ -82,6 +85,7 @@ The live link can be found here: [Yoga4u](https://desislavanaydenova.github.io/Y
 
 ### Content
 
+- The [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/) project tutorials wee used to develop this site.
 - The text for the Home page was taken from (<https://spearehospital.com/10-reasons-men-should-do-yoga/>) (<https://www.goodhousekeeping.com/health/fitness/a42396941/yoga-for-beginners/#best-yoga-poses-for-beginners>)
 - Instructions on how to implement form validation on the Sign Up page were taken from a specific YouTube Tutorial.
 - Font style was taken from [Fonts-Google](https://fonts.google.com/).
@@ -93,8 +97,3 @@ The live link can be found here: [Yoga4u](https://desislavanaydenova.github.io/Y
 - The images used for the gallery page were taken from [www.pexes.com](https://www.pexels.com/).
 - The favicon was taken from [Favicon](https://favicon.io/favicon-generator/).
 
-## Other General Project Advice
-
-- Pay attention to commit messages and follow good coding practices.
-- Name files meaningfully for clear file paths.
-- Research good and bad coding practices, consider reviewing the suggested articles in the list.

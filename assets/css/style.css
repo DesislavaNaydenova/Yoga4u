@@ -305,11 +305,7 @@ h3 a:hover {
         margin-top: 91px;
     }
 
-    /* Gallery */
-    #photos {
-        column-count: 3;
-        column-gap: 0;
-    }
+
 
     .courses {
         max-width: 60%;
@@ -345,6 +341,12 @@ h3 a:hover {
 
     .courses {
         max-width: 45%;
+    }
+
+    /* Gallery */
+    #photos {
+        column-count: 3;
+        column-gap: 0;
     }
 
 
