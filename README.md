@@ -6,33 +6,33 @@ Yoga4u is a website that provides information about yoga courses for beginners. 
 
 In this section, we will go over the different parts of the project and describe each briefly, focusing on the value they provide to users.
 The first step was to determine the content and the design of our webpage with the help of Balsamiq Wareframes
-! [Design for Phone 1](assets/images/handy-home.png)
-! [Design for Phone 2](assets/images/handy-rest.png)
-! [Deign for Tablet](assets/images/ipad.png)
-! [Design for Browser](assets/images/browser.png)
+![Design for Phone 1](assets/images/handy-home.png)
+![Design for Phone 2](assets/images/handy-rest.png)
+![Deign for Tablet](assets/images/ipad.png)
+![Design for Browser](assets/images/browser.png)
 And this is how our site looks like after dthe development:
-! [Responsive Design](assets/images/Screenshot_responsivedesign.png)
+![Responsive Design](assets/images/Screenshot_responsivedesign.png)
 
 ### Navigation Bar
 
 Featured on all four pages, the fully responsive navigation bar includes links to the Logo, Home page, Gallery, Courses and Sign Up page. It is identical on each page to allow for easy navigation across all devices.
-! [Navigation Bar for Phone](assets/images/nav-bar-phone.png)
-! [Navigation Bar for Desktop](assets/images/nav-bar-desktop.png)
+![Navigation Bar for Phone](assets/images/nav-bar-phone.png)
+![Navigation Bar for Desktop](assets/images/nav-bar-desktop.png)
 
 ### Hero Image
 
 The Hero image includes a photograph with text overlay to showcase the Name of the company. This section introduces the user to Yoga4u.
-! [Hero image with cover text](assets/images/Hero.png)
+![Hero image with cover text](assets/images/Hero.png)
 
 ### Intro Section
 
 This section briefly explains what yoga is, shows the benefits of doing yoga and gives a contact information to the user.
-! [iInro section](assets/images/intro.png)
+![iInro section](assets/images/intro.png)
 
 ### Footer
 
 The footer includes links to Yoga4u's relevant social media sites, encouraging users to stay connected.
-! [Footer](assets/images/footer.png)
+![Footer](assets/images/footer.png)
 
 ### Gallery
 
@@ -41,12 +41,12 @@ Provides supporting images of yoga courses, helping users identify the types of 
 ### Courses
 
 Provides information about courses times, helping users choose the passing time to do theit training.
-! [Courses](assets/images/courses.png)
+![Courses](assets/images/courses.png)
 
 ### Sign Up Page
 
 Allows users to sign up for Yoga course, specifying their preference for daytime and date. Users are asked to submit their full name and email address.
-! [Sign Up](assets/images/Signup.png)
+![Sign Up](assets/images/Signup.png)
 
 ## Testing
 
@@ -65,7 +65,7 @@ No errors were returned when passing through the official W3C validator.
 
 No errors were found when passing through the official (Jigsaw) validator.
 ### Lighthouse
-The choosen colours and fontare easy to read and accessible by running it through Lighthouse in Devtools [Lighthouse report](assets/images/Screenshot_lighthouse.png)
+The choosen colours and fontare easy to read and accessible by running it through Lighthouse in Devtools ![Lighthouse report](assets/images/Screenshot_lighthouse.png)
 
 ### Unfixed Bugs
 
